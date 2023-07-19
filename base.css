@@ -1,0 +1,89 @@
+body {font-size: 24px;
+    line-height: 28.13px;
+    color:#000000}
+
+h2 {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 28.13px;
+        align-items: Right;
+    }
+    
+.title_main, .title, .title_strengths {font-family: 
+    Playfair Display, serif;
+    font-weight: 500;
+    font-size: 86px;}
+
+
+.title_main {
+    line-height: 103.2px;
+    align-items: center;
+}
+
+.title {
+    line-height: 114.64px;
+}
+
+.title_strengths{
+    line-height: 86px;
+}
+
+
+.navigation, .full_title, .work, h2,.disiners_name, .disiners_info 
+{font-family: Roboto, serif;
+    font-weight: 500; 
+    align-items: center}
+
+.navigation {
+    font-size: 24px;
+    line-height: 28.13px;
+}
+
+
+.full_title{
+    font-size: 20px;
+    line-height: 23.44px;
+}
+
+
+
+.work {font-size: 18px;
+    line-height: 21.09px;
+}
+
+
+.contact {font-weight: 700;
+    font-size: 16px;
+    line-height: 18.75px;}
+
+.disiners_info{font-weight: 400;
+    font-size: 16px;
+    line-height: 18.75px;}
+
+
+@font-face {
+    font-family: "Bitter";
+    src: local("fonts/Bitter"),
+      url("/fonts/Bitter/Bitter-VariableFont_wght.ttf") format("woff2"),
+      url("/fonts/Bitter/static/Bitter-Medium.ttf") format("woff"),
+      url("Bitter-Medium.svg") format("svg");
+    font-weight: normal;
+  }
+ 
+  
+.quote_mills, .testimonials, .strengths_list {font-family: "Bitter", sans-serif;
+    font-weight: 400;}
+
+.quote_mills {
+    font-size: 26px;
+    line-height: 31.2px;
+  }
+
+.testimonials {
+    font-size: 32px;
+    line-height: 38.4px;
+    align-items: center}
+
+.strengths_list {
+font-size: 34px;
+line-height: 40.8px}
